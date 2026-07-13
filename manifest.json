@@ -1,0 +1,36 @@
+{
+  "manifest_version": 3,
+  "name": "Letras Diferentes - Girl Boss Aesthetic Theme",
+  "version": "1.0",
+  "description": "A stylish Pinterest-inspired Chrome theme with soft girl boss aesthetic, elegant fonts, and feminine vision board vibes.",
+  "homepage_url": "https://letrasdiferentes.online/",
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "theme": {
+    "images": {
+      "theme_frame": "images/theme_frame.png",
+      "theme_toolbar": "images/theme_toolbar.png",
+      "theme_ntp_background": "images/theme_ntp_background.png"
+    },
+    "colors": {
+      "frame": [218, 174, 171],
+      "toolbar": [255, 248, 242],
+      "tab_text": [43, 32, 33],
+      "bookmark_text": [43, 32, 33],
+      "ntp_background": [255, 248, 242],
+      "ntp_text": [43, 32, 33],
+      "ntp_link": [132, 84, 90],
+      "button_background": [245, 224, 219]
+    },
+    "tints": {
+      "buttons": [0.7, 0.45, 0.5]
+    },
+    "properties": {
+      "ntp_background_alignment": "center center",
+      "ntp_background_repeat": "no-repeat"
+    }
+  }
+}
